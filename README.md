@@ -67,11 +67,7 @@ pip install moviepy ttkthemes
 - FLV
 - WEBM
 - GIF
-
-## Screenshots
-
-*(Include screenshots of your application's GUI here if possible.)*
-
+- 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
